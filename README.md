@@ -1,4 +1,4 @@
 TestGithub-aug-even
 ===================
 
-Github View
+TestGithub is a repository  for showing the bare minimuse of  github and how to muneuver .function.etc.
